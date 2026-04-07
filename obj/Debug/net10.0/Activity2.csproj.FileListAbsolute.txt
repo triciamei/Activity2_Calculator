@@ -1,0 +1,14 @@
+C:\Users\tricia\Documents\Activity2\bin\Debug\net10.0\Activity2.exe
+C:\Users\tricia\Documents\Activity2\bin\Debug\net10.0\Activity2.deps.json
+C:\Users\tricia\Documents\Activity2\bin\Debug\net10.0\Activity2.runtimeconfig.json
+C:\Users\tricia\Documents\Activity2\bin\Debug\net10.0\Activity2.dll
+C:\Users\tricia\Documents\Activity2\bin\Debug\net10.0\Activity2.pdb
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.AssemblyInfoInputs.cache
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.AssemblyInfo.cs
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.dll
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\refint\Activity2.dll
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.pdb
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\Activity2.genruntimeconfig.cache
+C:\Users\tricia\Documents\Activity2\obj\Debug\net10.0\ref\Activity2.dll
