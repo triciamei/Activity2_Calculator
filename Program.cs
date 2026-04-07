@@ -4,6 +4,8 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Hello from feature branch!");
+
         Console.Write("Enter first number: ");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
